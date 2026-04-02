@@ -1,4 +1,4 @@
-# sizhu-programming
+# sizhu-programming 四柱编程
 
 > **当老天是 Python 程序员**  
 > 如果命运是一套预先封装好的程序，那么八字就是它的底层源代码。
