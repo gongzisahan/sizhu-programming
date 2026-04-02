@@ -23,7 +23,7 @@
 
 （第 0 章元认知 → 基础数据层 → 排盘引擎 → 分析模块 → 附录数据表）
 
-📂 项目结构
+## 📂 项目结构
 textsizhu-programming/
 ├── README.md                 ← 你现在看到的首页
 ├── sizhu_programming.md      ← 完整技术文档（强烈推荐阅读）
@@ -34,14 +34,14 @@ textsizhu-programming/
 ├── requirements.txt
 └── LICENSE
 
-🛠 技术栈
+## 🛠 技术栈
 
 Python 3.10+
 dataclasses + enum
 lunar-python（农历转换）
 可选：FastAPI / Streamlit（后续 Web 版本）
 
-📬 参与贡献
+## 📬 参与贡献
 欢迎 Issue、PR、讨论！
 尤其是：
 
