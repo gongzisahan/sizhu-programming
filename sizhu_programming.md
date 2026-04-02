@@ -1,4 +1,4 @@
-<image-card alt="四柱编程封面" src="https://picsum.photos/800/300?random=1" ></image-card>
+
 # 四柱编程
 ## 当老天是 Python 程序员
 
